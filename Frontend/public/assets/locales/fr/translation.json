@@ -1,0 +1,12 @@
+{
+    "app_title": "Titre",
+    "language": "Langue",
+    "name": "Nom du produit",
+    "Description": "Description du produit",
+    "category": "Catégorie",
+    "price": "Prix",
+    "quantity": "Quantité",
+    "image": "Liens d'images",
+    "video": "Liens vidéo"
+
+}
